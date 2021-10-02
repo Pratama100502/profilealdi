@@ -106,6 +106,7 @@ body {
 .two-column-wrapper {
   display: grid;
   grid-template-columns: 1fr 3fr;
+  background-color: #d1e3ff;
 }
 
 .profile-image-wrapper img {
